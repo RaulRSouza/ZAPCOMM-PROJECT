@@ -3,7 +3,7 @@ Todos os direitos reservados a https://baasic.com.br
 -- COMO RODAR A APLICAÇÃO --
 Requisitos Básicos: Ter o Docker e Node.Js baixados, e ter a virtualização do computador ativada.
 OBS: Todos os comandos deverão ser executados no terminal.
-Após isso, é essencial que o usuário use o comando "git clone https://github.com/JoaoPauloLordelo/zapcomm-Squad17.git" para clonar o repositório do squad-17.
+Após isso, é essencial que o usuário use o comando git clone para clonar o repositório.
 utilize o comando code . para entrar no vscode para acessar a aplicação.
 
 -- COMANDOS PARA A INSTALAÇÃO --
